@@ -11,7 +11,7 @@ export default {
   name: 'App',
   components: {Calendar},
   data: () => ({
-    date: "11.16.2021" // "MM.DD.YYYY"
+    date: "06.01.2017" // "MM.DD.YYYY"
   }),
   methods: {
     onUpdateDate(date){
